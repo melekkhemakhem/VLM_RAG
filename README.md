@@ -133,13 +133,5 @@ Les analyses sont sauvegardées dans des fichiers JSON (`descriptions*.json`) co
 3. **Erreur OpenCV** :
    - Installez opencv-python : `pip install opencv-python`
 
-## Contribution
-
-Pour contribuer au projet :
-1. Fork le repository
-2. Créez une branche pour votre fonctionnalité
-3. Committez vos changements
-4. Poussez vers la branche
-5. Ouvrez une Pull Request
 
 
